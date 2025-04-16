@@ -1,4 +1,4 @@
-# <h1>Hi, This is Silas from Texas.🚀🚀🚀</h1>
+# <h1>Hi, This is Silas from Texas.🚀🔥🚀</h1>
 
 ### About Me
 Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with team members.
@@ -17,7 +17,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 <h1 align="center">I am always open to work!!!!</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmagickit&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=xmagickit&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" align="center" alt="GitHub Stats">
 <!--
 **xmagickit/xmagickit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
