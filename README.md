@@ -17,7 +17,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 <h1 align="center">I am always open to work!!!!</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmagickit&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" align="center" alt="GitHub Stats">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xmagickit&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"></div>
 <!--
 **xmagickit/xmagickit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
